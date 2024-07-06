@@ -15,19 +15,19 @@ Moonlight is a sleek, modern dark theme for Discord, designed to enhance your us
 To use the Moonlight theme on Discord, follow these steps:
 
 1. **Install BetterDiscord:**
-   - Download and install BetterDiscord from [BetterDiscord's official website](https://betterdiscord.net/).
+   - Download and install Vencord from [BetterDiscord's official website]([https://betterdiscord.net/](https://vencord.dev/)).
    
 2. **Open Discord Settings:**
    - Launch Discord and navigate to your user settings.
 
-3. **Navigate to Bandagecord Section:**
-   - In the settings menu, find the "Bandagecord" section.
+3. **Navigate to Vencord Section:**
+   - In the settings menu, find the "Vencord" section.
 
 4. **Choose Themes:**
-   - Select "Themes" from the Bandagecord settings.
+   - Select "Themes" from the Vencord settings.
 
 5. **Open Themes Folder:**
-   - Click on "Open Themes Folder" to access the folder where BetterDiscord stores its themes.
+   - Click on "Open Themes Folder" to access the folder where Vencord stores its themes.
 
 6. **Install Moonlight Theme:**
    - Place the `moonlight.css` file into the opened themes folder.
@@ -38,10 +38,4 @@ To use the Moonlight theme on Discord, follow these steps:
 8. **Enjoy Moonlight Theme:**
    - Once loaded, the Moonlight theme will transform your Discord interface with its sleek design and enhanced usability.
 
-## Feedback and Issues
-
-If you encounter any issues with the Moonlight theme or have suggestions for improvements, please [submit an issue](https://github.com/your-username/moonlight-discord-theme/issues) on GitHub. Your feedback is highly appreciated!
-
----
-
-**Note:** This theme is designed for use with BetterDiscord and may not be compatible with other Discord modding platforms. Ensure you have the latest version of BetterDiscord installed for optimal performance.
+**Note:** This theme is designed for use with Vencord and may not be compatible with other Discord modding platforms. Ensure you have the latest version of BetterDiscord installed for optimal performance.
